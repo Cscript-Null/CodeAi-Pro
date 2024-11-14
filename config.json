@@ -1,0 +1,5 @@
+{
+    "api_key":"sk-",
+    "api_url":"https://api.moonshot.cn/v1",
+    "model": "moonshot-v1-auto"
+}
